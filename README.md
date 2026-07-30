@@ -20,7 +20,6 @@
 
 Engineering student focused on full-stack development, cloud infrastructure, and applied AI. Currently working with large language models, local inference through Ollama, and the Model Context Protocol. Comfortable across the stack — from embedded C to distributed microservices on GCP and AWS.
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=40&section=header&animation=fadeIn" width="100%"/>
 </div>
 
 ## Tech Stack
@@ -32,7 +31,6 @@ Engineering student focused on full-stack development, cloud infrastructure, and
 </marquee>
 
 <br>
-
 
 </div>
 
@@ -46,7 +44,6 @@ Engineering student focused on full-stack development, cloud infrastructure, and
 
 <img src="https://leetcard.jacoblin.cool/NANDHINI_2006?ext=heatmap&font=JetBrains+Mono&theme=dark" alt="LeetCode stats" width="85%"/>
 
-<br>
 
 [![View Full Profile](https://img.shields.io/badge/View_Full_LeetCode_Profile-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/NANDHINI_2006/)
 
