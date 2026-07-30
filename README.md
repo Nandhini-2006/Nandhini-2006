@@ -27,10 +27,10 @@ Engineering student focused on full-stack development, cloud infrastructure, and
 <div align="center">
 
 <marquee behavior="scroll" direction="left" scrollamount="6" style="padding: 12px 0;">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,mysql,spring,firebase,linux,git,github,gcp,aws,mongodb&theme=dark" alt="skills" height="48">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,mysql,spring,firebase,linux,git,github,gcp,aws,mongodb&theme=dark" alt="skills" height="48">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,mysql,spring,firebase,linux,git,github,gcp,aws,mongodb&theme=dark" alt="skills" height="48">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,mysql,spring,firebase,linux,git,github,gcp,aws,mongodb&theme=dark" alt="skills" height="48">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,mysql,spring,firebase,linux,git,github,gcp,aws,mongodb&theme=dark" alt="skills" height="48">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,mysql,spring,firebase,linux,git,github,gcp,aws,mongodb&theme=dark" alt="skills" height="48">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,mysql,spring,firebase,linux,git,github,gcp,aws,mongodb&theme=dark" alt="skills" height="48">&nbsp;&nbsp;
 </marquee>
 
-<br><br>
+<br>
 
 
 </div>
