@@ -14,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=40&section=header&animation=fadeIn" width="100%"/>
 
-</div>
+
 
 ## About
 
@@ -30,7 +30,7 @@ Engineering student focused on full-stack development, cloud infrastructure, and
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,mysql,spring,firebase,linux,git,github,gcp,aws,mongodb&theme=dark" alt="skills" height="48">&nbsp;&nbsp;
 </marquee>
 
-<br>
+
 
 </div>
 
@@ -43,7 +43,6 @@ Engineering student focused on full-stack development, cloud infrastructure, and
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/NANDHINI_2006?ext=heatmap&font=JetBrains+Mono&theme=dark" alt="LeetCode stats" width="85%"/>
-
 
 [![View Full Profile](https://img.shields.io/badge/View_Full_LeetCode_Profile-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/NANDHINI_2006/)
 
