@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=999999&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React;Cloud+%26+Microservices+on+GCP%2FAWS;Exploring+LLMs+%2B+MCP+%2B+Ollama" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhini-n-0465a1320/)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:nandhini.2023n@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/NANDHINI_2006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](#)
