@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=55&lines=Nandhini+N" alt="Name Typing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=999999&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React;Cloud+%26+Microservices+on+GCP%2FAWS;Exploring+LLMs+%2B+MCP+%2B+Ollama;Open+to+SDE+%26+Full-Stack+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=999999&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React;Cloud+%26+Microservices+on+GCP%2FAWS;Exploring+LLMs+%2B+MCP+%2B+Ollama" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:nandhini.2023n@gmail.com)
