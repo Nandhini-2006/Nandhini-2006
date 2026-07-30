@@ -49,9 +49,7 @@ Engineering student focused on full-stack development, cloud infrastructure, and
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=40&section=header&animation=fadeIn" width="100%"/>
-</div>
+
 
 
 
