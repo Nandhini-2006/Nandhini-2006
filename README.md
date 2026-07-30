@@ -12,9 +12,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/NANDHINI_2006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](#)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=40&section=header&animation=fadeIn" width="100%"/>
-
-
 
 ## About
 
