@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="260">
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=55&lines=Nandhini+N" alt="Name Typing" />
